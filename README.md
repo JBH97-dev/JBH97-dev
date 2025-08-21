@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Jecer Ben Hammouda  
 
-🚀 **Embedded & IoT Engineer | Embedded Systems Developer | Problem Solver**  
+🚀 **Embedded & IoT Engineer | Embedded Systems Developer | Freelancer**  
 
-I am an **Embedded Systems and IoT Engineer** with 2+ years of experience in **firmware development, hardware/software integration, and connected devices**. I love working at the intersection of **low-level drivers, communication protocols, and IoT infrastructures** to bring reliable, real-world applications to life.  
+I am an **Embedded Systems and IoT Engineer** with 2+ years of experience in **firmware development, hardware/software integration, and connected devices**. I love working at the intersection of **low-level drivers, communication protocols, and IoT infrastructures** to bring reliable, real-world applications to life. 
+I am currently a Fulltime freelancer with over 4 embedded projects in my portfolio. 
+I prefer freelancing as it gives me motivation to solve real world problems and gives me a respectable life-work balance.
 
 ---
 
